@@ -1,0 +1,18 @@
+1) Create FullTimeEmployee class that is a sublcass of Employee
+	a) salary (double) attribute
+	b) getters, setters, toString, and constructors
+2) Create Contractor class that is a subclass of Employee
+	a) rate (double) and hours (double) attributes
+	b) getters, setters, toString, and constructors
+3) Add a calculatePay() method to Employee class
+
+	// this is in the Employee class
+	public double calculatePay() {
+		return 0.0.;
+	}
+4) Override calculatePay() in the FullTimeEmployee and Contractor
+   classes.
+5) Create a class called PolymorphismApp.
+	Create Employee array with several objects.
+	Assign employee and contractors.
+	Using a loop, display the employee's name and their pay.
